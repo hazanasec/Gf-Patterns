@@ -2,7 +2,7 @@
     "flags": "-iE",
      "patterns": [
 
-         "id=",
+        "id=",
         "select=",
         "report=",
         "role=",
@@ -30,6 +30,22 @@
         "delete=",
         "string=",
         "number=",
-        "filter="
+        "filter=",
+        "page=",
+        "dir=",
+        "file=",
+        "class=",
+        "url=",
+        "news=",
+        "item=",
+        "menu=",
+        "type=",
+        "join=",
+        "region=",
+        "form=",
+        "lang=",
+        "thread=",
+        "title=",
+        "topic="
 ]
 }
