@@ -46,6 +46,11 @@
         "lang=",
         "thread=",
         "title=",
-        "topic="
+        "topic=",
+        "nav=",
+        "category=",
+        "store=",
+        "store_id=",
+        "storeid="
 ]
 }

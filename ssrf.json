@@ -64,7 +64,18 @@
 "doc=",
 "img=",
 "filename=",
-"go2url="
+"go2url=",
+"value=",
+"aws=",
+"cloudurl=",
+"cloud_url=",
+"load_url=",
+"sendto=",
+"send=",
+"send_to=",
+"grab=",
+"load_from=",
+"load_data="
 ]
 }
 
